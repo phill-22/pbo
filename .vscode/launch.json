@@ -1,0 +1,98 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "mobil",
+      "request": "launch",
+      "mainClass": "uts.mobil",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "aksi",
+      "request": "launch",
+      "mainClass": "uts.aksi",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "aksi",
+      "request": "launch",
+      "mainClass": "fajar.aksi",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "aksi",
+      "request": "launch",
+      "mainClass": "salwa.aksi",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "aksi",
+      "request": "launch",
+      "mainClass": "aksi",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "toko_buku",
+      "request": "launch",
+      "mainClass": "toko_buku",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "coba",
+      "request": "launch",
+      "mainClass": "coba.coba",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "tugas01",
+      "request": "launch",
+      "mainClass": "tugas01",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "Operator",
+      "request": "launch",
+      "mainClass": "Operator",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "OperasiString",
+      "request": "launch",
+      "mainClass": "OperasiString",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "praktek",
+      "request": "launch",
+      "mainClass": "praktek",
+      "projectName": "pbo_94c6f5e4"
+    }
+  ]
+}
