@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "kendaraan",
+      "request": "launch",
+      "mainClass": "uas01.kendaraan",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
+      "name": "test1",
+      "request": "launch",
+      "mainClass": "uas.test1",
+      "projectName": "pbo_94c6f5e4"
+    },
+    {
+      "type": "java",
       "name": "mobil",
       "request": "launch",
       "mainClass": "uts.mobil",
